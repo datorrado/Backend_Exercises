@@ -1,0 +1,17 @@
+# Ignorar carpetas de dependencias
+node_modules/
+packages/
+
+# Ignorar archivos de configuración
+config/*.json
+*.env
+
+# Ignorar archivos de caché y compilados
+*.log
+*.swp
+.DS_Store
+*.min.js
+
+# Ignorar archivos generados automáticamente
+dist/
+build/
